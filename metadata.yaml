@@ -1,0 +1,44 @@
+_repo: Heath-s-Modern-Language-Series--Jos-_27738
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Hubbard, Alice P. F.
+    gutenberg_agent_id: '32881'
+    url: http://www.gutenberg.org/2009/agents/32881
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palacio Valdés, Armando
+    aliases:
+    - Palacio Valdes, Armando
+    - Valdés, Armando Palacio
+    birthdate: 1853
+    deathdate: 1938
+    gutenberg_agent_id: '4015'
+    url: http://www.gutenberg.org/2009/agents/4015
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+    - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+  editor:
+    agent_name: Davidson, Frederick Joseph Arthur
+    alias: Davidson, Frederic Joseph Arthur
+    birthdate: 1870
+    gutenberg_agent_id: '32875'
+    url: http://www.gutenberg.org/2009/agents/32875
+description: ''
+gutenberg_issued: '2009-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27738'
+  lccn: 00002358
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish language -- Textbooks for foreign speakers -- English'
+title: 'Heath''s Modern Language Series: José'
+url: http://www.gutenberg.org/ebooks/27738
